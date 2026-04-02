@@ -1,13 +1,12 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-  <img src="./title.svg" alt="ZERUBBABEL : SOFTWARE DEVELOPER || CYBERSECURITY" width="100%" />
+  <img src="title.gif" alt="ZERUBBABEL : SOFTWARE DEVELOPER || CYBERSECURITY" width="100%" />
 </div>
 
 ---
 
- 💫 Anything related with programming, I'm in!
-
+### 💫 Anything related with programming, I'm in!
 
 ---
 
@@ -21,7 +20,12 @@
 
 ---
 
-
+### 📈 GitHub Stats
+<div align="center">
+  <!-- Note: Change "?username=YOUR_USERNAME" to your actual GitHub username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=zerub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zerub&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -35,10 +39,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="15px" />
 </div>
-
-
-
-<!---
-ZERUBBABELBEHAILU/ZERUBBABELBEHAILU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
