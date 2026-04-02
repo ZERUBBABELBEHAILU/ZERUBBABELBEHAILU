@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1831c8bb-0275-493a-9a1e-981cfa5aa386" width="100%" />
 
-  <br/>
-  ![ZERUBBABEL : SOFTWARE DEVELOPER || CYBERSECURITY](title.png)
-</div>
+  </div>
 
 ---
 
