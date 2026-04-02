@@ -6,12 +6,8 @@
 
 ---
 
-### 💫 About Me
-* 🔭 I’m currently working on **building awesome projects**
-* 🌱 I’m currently learning **Advanced Software Architecture**
-* 👯 I’m looking to collaborate on **Open Source Projects**
-* 💬 Ask me about **Web Development, AI, and Design**
-* ⚡ Fun fact: **I love bringing code to life with great aesthetics!**
+ 💫 Anything related with programming, I'm in!
+
 
 ---
 
