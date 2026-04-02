@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://github.com/user-attachments/assets/1831c8bb-0275-493a-9a1e-981cfa5aa386" width="100%" />
 
   <br/>
   ![ZERUBBABEL : SOFTWARE DEVELOPER || CYBERSECURITY](title.png)
@@ -38,5 +38,5 @@
 
 <br/>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="15px" />
+  <img src="https://github.com/user-attachments/assets/1831c8bb-0275-493a-9a1e-981cfa5aa386" width="100%" height="15px" />
 </div>
