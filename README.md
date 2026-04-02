@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
   <br/>
-  ![ZERUBBABEL : SOFTWARE DEVELOPER || CYBERSECURITY](title.gif)
+  ![ZERUBBABEL : SOFTWARE DEVELOPER || CYBERSECURITY](title.png)
 </div>
 
 ---
@@ -24,8 +24,8 @@
 ### 📈 GitHub Stats
 <div align="center">
   <!-- Note: Change "?username=YOUR_USERNAME" to your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=zerub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zerub&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zerub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&custom_title=Growth+%F0%9F%93%88" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
