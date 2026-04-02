@@ -25,12 +25,7 @@
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <!-- Note: Change "?username=YOUR_USERNAME" to your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=zerub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zerub&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
+
 
 ---
 
