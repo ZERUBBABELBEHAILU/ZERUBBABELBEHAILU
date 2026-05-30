@@ -13,7 +13,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,java,spring,androidstudio,html,css,react,nextjs,nodejs,tailwind,git,docker,linux&perline=8" alt="Tech Stack Icons"/>
+    <img src="https://skillicons.dev/icons?i=py,js,ts,java,spring,androidstudio,html,css,react,nextjs,nodejs,tailwind,git,docker,linux,github&perline=8" alt="Tech Stack Icons"/>
   </a>
 </div>
 
